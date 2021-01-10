@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> &nbsp;
+  <img src="https://img.shields.io/badge/HackerEarth%20-%2314354C.svg?&style=for-the-badge&logo=HackerEarth&logoColor=white"/> &nbsp;
 </p>
 
 <p align=center>  
