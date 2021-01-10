@@ -3,7 +3,7 @@
 <p align="center">I am a Software Developer skilled in Python, Django, Flask, Java, and JavaScript. A strong engineering professional with a Bachelor of Engineering focused in Computer Science and strong engineering experience from <a href="https://hackerearth.com">HackerEarth</a>.</p>
 
 <p align="center"><a href="https://twitter.com/git_push_tweet"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/satheesh1997/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/esc_wq/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  <a href="https://satheesh.dev/"><img src="https://img.shields.io/badge/portfolio%20-%23323330.svg?&style=for-the-badge&logo=web&logoColor=%23F7DF1E%22" height=25></a>
+  <a href="https://articles.satheesh.dev/"><img src="https://img.shields.io/badge/articles%20-%23323330.svg?&style=for-the-badge&logo=lbry&logoColor=white" height=25></a>
 </p>
 
 <p align=center>
