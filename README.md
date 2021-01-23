@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/HackerEarth%20-%2314354C.svg?&style=for-the-badge&logo=HackerEarth&logoColor=white"/> &nbsp;
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> &nbsp;
+  <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> &nbsp;
 </p>
 
 <p align=center>  
