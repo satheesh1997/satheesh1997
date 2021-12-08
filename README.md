@@ -1,9 +1,9 @@
 <h2 align="center">Hello there! My name is Satheesh Kumar. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<p align="center">I am a Software Engineer skilled in Django, Flask, Rails, Spring and React. A strong engineering professional with a Bachelor of Engineering focused in Computer Science and strong engineering experience from <a href="https://hackerearth.com">HackerEarth</a>.</p>
+<p align="center">I am a Software Engineer skilled in Python, Nodejs, Java & Golang. A strong engineering professional with a Bachelor of Engineering focused in Computer Science and strong engineering experience from <a href="https://hackerearth.com">HackerEarth</a>.</p>
 
 <p align="center"><a href="https://twitter.com/git_push_tweet"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/satheesh1997/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/esc_wq/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  <a href="https://articles.satheesh.dev/"><img src="https://img.shields.io/badge/articles%20-%23323330.svg?&style=for-the-badge&logo=lbry&logoColor=white" height=25></a>
+  <a href="https://esc-wq.medium.com/"><img src="https://img.shields.io/badge/articles%20-%23323330.svg?&style=for-the-badge&logo=lbry&logoColor=white" height=25></a>
 </p>
 
 <p align=center>
